@@ -1,2 +1,2 @@
-# codsoft
+# 2d game
 c++ internship
